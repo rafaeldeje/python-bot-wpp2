@@ -1,0 +1,3 @@
+Baixe as bibliotecas 
+pip install pywhatkit
+pip install pyautogui
